@@ -1,0 +1,23 @@
+{
+  "name": "poly-vendor-sprintfjs",
+  "homepage": "https://github.com/TonyBogdanov/poly-vendor-sprintfjs",
+  "authors": [
+    "Tony Bogdanov <tonybogdanov@gmail.com>"
+  ],
+  "description": "Unambiguous loading of sprintf.js",
+  "keywords": [
+    "web-components"
+  ],
+  "main": "poly-vendor-sprintfjs.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sprintfjs": "^1.2.3"
+  }
+}
